@@ -4,6 +4,7 @@ We developed and implemented two surveys with customers of a large life insurer,
 # Terms of Use
 By downloading the passcode-protected data, you agree to the following term(s):
 * You will not attempt to reverse engineer or identify the data in passcoded-rotected files prior to the removal of the passcode by the authors.
+
 By accessing this data, you agree to the following terms:
 * You will not use the data for commerical purposes, as defined in 18 U.S. Code § 31(a)(10).
 * You will not attempt to identify the actual name of the insurer with fictional name LLI.
