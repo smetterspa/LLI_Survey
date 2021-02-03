@@ -12,4 +12,4 @@ By accessing this data, you agree to the following terms:
 * You will reference the published version of the original academic paper, _Gottlieb, Daniel and Kent Smetters (Forthcoming)_.
 
 # Installation
-Code, README and installation instructions are provided in the "Additional Materials" link for the published paper [provide link here when published].
+Python code, installation instructions, and README files are provided in the "Additional Materials" link for the published paper [provide link here when published].
