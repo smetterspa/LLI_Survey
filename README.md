@@ -13,4 +13,4 @@ By accessing this data, you agree to the following terms:
 
 # Installation
 ## Prerequisities
-The main code base is written in python version 3.7 and relies on multiple packages including numpy and pandas. The following dependencies 
+The main code base is written in Python version 3.8.5 and relies on multiple packages including scipy 1.5.2, matplotlib 3.3.2, numpy 1.19.2, pandas 1.1.3. See the 
