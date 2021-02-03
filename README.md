@@ -15,3 +15,7 @@ By accessing this data, you agree to the following terms:
 
 # Installation
 Python code, installation instructions, and README files are provided in the "Additional Materials" link for the published paper [provide link here when published].
+
+# Contributors
+Daniel Gottlieb, London School of Economomics, email: d.gottlieb@lse.ac.uk
+Kent Smetters, The Wharton School, email: smetters@wharton.upenn.edu
